@@ -1,0 +1,24 @@
+{
+  "states": [
+    {
+      "name": "Uttrakhand",
+      "abbreviation": "UK"
+    },
+    {
+      "name": "Assam",
+      "abbreviation": "AS"
+    },
+    {
+      "name": "UttaePardesg",
+      "abbreviation": "UP"
+    },
+    {
+      "name": "kerela",
+      "abbreviation": "KR"
+    },
+    {
+      "name": "Delhi",
+      "abbreviation": "DL"
+    }
+  ]
+}

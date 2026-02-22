@@ -1,0 +1,30 @@
+{
+"states": [
+    {
+        "name":"Uttrakhand",
+        "abbreviation":"UK",
+        "area_code":["205","251","256","334","938"]
+    },
+    {
+        "name":"Assam",
+        "abbreviation":"AS",
+        "area_code":["505","551","556","534","538"]
+    },
+    {
+        "name":"UttaePardesg",
+        "abbreviation":"UP",
+        "area_code":["405","451","456","434","438"]
+    },
+    {
+        "name":"kerela",
+        "abbreviation":"KR",
+        "area_code":["305","351","356","334","338"]
+    },
+    {
+        "name":"Delhi",
+        "abbreviation":"DL",
+        "area_code":["205","251","256","334","938"]
+    }
+    
+]
+}
